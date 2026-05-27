@@ -1,5 +1,5 @@
 module.exports = {
-    token: 'MTQ2MDQ5MDgz000000000000QzMQ.Gd9p6a.30000000KxmEN2vm6wr0000E3k0m10za18E',
+    token: 'MTI5MjY4MDk0NzI4Nzk4MjEyMg.G3tOCi.2zto1mLj4kTdjQPzczQygmIiEQwiZTt_0Bu0so',
     adminIds: ['1236863190785196106'],
     maxUsers: 30,
     delayPerUser: 10,// อย่าปรับ
